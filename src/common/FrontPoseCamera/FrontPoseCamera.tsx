@@ -26,8 +26,8 @@ const FrontPoseCamera = ({
   const camRef = useRef(null)
   const canvasRef = useRef(null)
   // Constants
-  const width = 1000 // display width
-  const height = 1000 // height
+  const width = 400 // display width
+  const height = 600 // height
   const posenetAccuracy = 0.4 // accuracy coef
   const detectionInterval = 1000 // time in msec
   //postnet configuration

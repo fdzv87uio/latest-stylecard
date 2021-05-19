@@ -5,6 +5,7 @@ const useCameraStyles = makeStyles({
     position: 'absolute',
     marginLeft: 'auto',
     marginRight: 'auto',
+    top: '50px',
     left: 0,
     right: 0,
     zIndex: 9,
@@ -16,6 +17,7 @@ const useCameraStyles = makeStyles({
     left: 0,
     right: 0,
     zIndex: 9,
+    top: '50px',
   },
 })
 
