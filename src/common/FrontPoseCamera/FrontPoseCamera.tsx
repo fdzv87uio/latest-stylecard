@@ -29,7 +29,7 @@ const FrontPoseCamera = ({
   const width = 400 // display width
   const height = 600 // height
   const posenetAccuracy = 0.4 // accuracy coef
-  const detectionInterval = 1000 // time in msec
+  const detectionInterval = 3000 // time in msec
   //postnet configuration
   const outputStride = 16
   const inputResolution = 257
